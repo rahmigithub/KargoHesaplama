@@ -1,0 +1,15 @@
+2021-04-28 02:22:10,348 INFO org.springframework.boot.StartupInfoLogger [main] Starting CargoApplication using Java 1.8.0_241 on DESKTOP-JGO93AK with PID 9928 (C:\Users\alkan\OneDrive\Masaüstü\Cargo\Backend-Spring boot\target\classes started by alkan in C:\Users\alkan\OneDrive\Masaüstü\Cargo\Backend-Spring boot)
+2021-04-28 02:22:10,353 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2021-04-28 02:22:11,822 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-04-28 02:22:11,833 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-04-28 02:22:11,834 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-04-28 02:22:11,939 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-04-28 02:22:11,939 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1484 ms
+2021-04-28 02:22:12,120 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-28 02:22:12,311 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-04-28 02:22:12,323 INFO org.springframework.boot.StartupInfoLogger [main] Started CargoApplication in 2.704 seconds (JVM running for 4.047)
+2021-04-28 02:22:17,179 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-28 02:22:17,179 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-04-28 02:22:17,180 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+2021-04-28 02:22:17,286 INFO com.rahmi.cargocalculation.Controller.ControllerCargo [http-nio-8080-exec-1] Calculate methodu çalıştırıldı.
+2021-04-28 02:22:17,287 INFO com.rahmi.cargocalculation.Controller.ControllerCargo [http-nio-8080-exec-1] Frondend tarafından gelen veriler 9 3 10
